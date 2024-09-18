@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Rabbit House</title>
-    <link>https://Rabbit-House-Chino.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Articles on Rabbit House</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Sep 2024 14:11:26 +0800</lastBuildDate>
-    <atom:link href="https://Rabbit-House-Chino.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter III: 我的第一篇博客</title>
-      <link>https://Rabbit-House-Chino.github.io/post/chapter-3/</link>
+      <link>http://localhost:1313/post/chapter-3/</link>
       <pubDate>Tue, 17 Sep 2024 14:11:26 +0800</pubDate>
-      <guid>https://Rabbit-House-Chino.github.io/post/chapter-3/</guid>
+      <guid>http://localhost:1313/post/chapter-3/</guid>
       <description>&lt;p&gt;你好！欢迎来到Rabbit House&lt;/p&gt;&#xA;&lt;p&gt;这是我的第一篇博客，使用hugo架构。&lt;/p&gt;&#xA;&lt;p&gt;再见！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter II: Test</title>
-      <link>https://Rabbit-House-Chino.github.io/post/chapter-2/</link>
+      <link>http://localhost:1313/post/chapter-2/</link>
       <pubDate>Tue, 17 Sep 2024 13:59:58 +0800</pubDate>
-      <guid>https://Rabbit-House-Chino.github.io/post/chapter-2/</guid>
+      <guid>http://localhost:1313/post/chapter-2/</guid>
       <description>&lt;h2 id=&#34;请问今天要来点兔子吗is-the-order-a-rabbit-或-gochuumon-wa-usagi-desu-ka是一部由-koi-创作的日本漫画作品并改编为动漫以下是关于这部作品的详细介绍&#34;&gt;《请问今天要来点兔子吗？》（Is the Order a Rabbit? 或 Gochuumon wa Usagi Desu ka?）是一部由 Koi 创作的日本漫画作品，并改编为动漫。以下是关于这部作品的详细介绍&lt;/h2&gt;&#xA;&lt;h3 id=&#34;基本信息&#34;&gt;基本信息&lt;/h3&gt;&#xA;&lt;p&gt;原作: Koi&lt;/p&gt;&#xA;&lt;p&gt;类型: 日常、治愈、少女&lt;/p&gt;&#xA;&lt;p&gt;动画制作公司: White Fox&lt;/p&gt;&#xA;&lt;p&gt;首播日期: 2014年4月&lt;/p&gt;&#xA;&lt;p&gt;改编: 动漫有多季，第一季于2014年播出，后续还有几季续集。&lt;/p&gt;&#xA;&lt;h3 id=&#34;剧情概述&#34;&gt;剧情概述&lt;/h3&gt;&#xA;&lt;p&gt;故事设定在一个类似于现代日本的小镇上，围绕着几位在咖啡店工作的少女们的日常生活展开。主要讲述了她们的友谊、工作、学校生活以及一些有趣的冒险。&lt;/p&gt;&#xA;&lt;h3 id=&#34;主要角色&#34;&gt;主要角色&lt;/h3&gt;&#xA;&lt;p&gt;香风智乃（Cocoa Hoto）&lt;/p&gt;&#xA;&lt;p&gt;活泼开朗的少女，搬到小镇后在 Rabbit House 咖啡店工作。她是一个非常友善的人，但有时候也会显得有些迷糊。&lt;/p&gt;&#xA;&lt;p&gt;保登心爱（Chino Kafū）&lt;/p&gt;&#xA;&lt;p&gt;Rabbit House 的一名员工，她性格冷静、成熟，有些内向，但对香风智乃有很高的依赖。&lt;/p&gt;&#xA;&lt;p&gt;青山小姐（Rize Tedeza）&lt;/p&gt;&#xA;&lt;p&gt;在 café Bloom 的常客，擅长枪械战术，性格冷静且有点严肃，但也很关心朋友。&lt;/p&gt;&#xA;&lt;p&gt;天开朱音（Sharo Kirima）&lt;/p&gt;&#xA;&lt;p&gt;一名学生，在咖啡店工作，性格有些矫情和害羞，但也是个非常善良的人。&lt;/p&gt;&#xA;&lt;p&gt;十神政宗（Maya Jōgasaki）&lt;/p&gt;&#xA;&lt;p&gt;一名性格开朗且非常有活力的少女，时常参与咖啡店的日常活动。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter I: The Grand Hall</title>
-      <link>https://Rabbit-House-Chino.github.io/post/chapter-1/</link>
+      <link>http://localhost:1313/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>https://Rabbit-House-Chino.github.io/post/chapter-1/</guid>
+      <guid>http://localhost:1313/post/chapter-1/</guid>
       <description>&lt;p&gt;Three hundred and forty-eight years, six months, and nineteen days ago&#xA;to-day, the Parisians awoke to the sound of all the bells in the triple&#xA;circuit of the city, the university, and the town ringing a full peal.&lt;/p&gt;&#xA;&lt;p&gt;The sixth of January, 1482, is not, however, a day of which history has&#xA;preserved the memory. There was nothing notable in the event which thus&#xA;set the bells and the bourgeois of Paris in a ferment from early morning.&#xA;It was neither an assault by the Picards nor the Burgundians, nor a hunt&#xA;led along in procession, nor a revolt of scholars in the town of Laas, nor&#xA;an entry of “our much dread lord, monsieur the king,” nor even a pretty&#xA;hanging of male and female thieves by the courts of Paris. Neither was it&#xA;the arrival, so frequent in the fifteenth century, of some plumed and&#xA;bedizened embassy. It was barely two days since the last cavalcade of that&#xA;nature, that of the Flemish ambassadors charged with concluding the&#xA;marriage between the dauphin and Marguerite of Flanders, had made its&#xA;entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,&#xA;who, for the sake of pleasing the king, had been obliged to assume an&#xA;amiable mien towards this whole rustic rabble of Flemish burgomasters, and&#xA;to regale them at his Hôtel de Bourbon, with a very “pretty morality,&#xA;allegorical satire, and farce,” while a driving rain drenched the&#xA;magnificent tapestries at his door.&lt;/p&gt;</description>
     </item>
   </channel>
